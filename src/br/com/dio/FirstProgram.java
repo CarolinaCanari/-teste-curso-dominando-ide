@@ -11,10 +11,6 @@ public class FirstProgram {
 		System.out.println(gato);
 	
 		
-		/*int a = 2020;
-		int b = 2;
-		System.out.println("Hello World! " + (a + b));*/
-
 	}
 
 }
